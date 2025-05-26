@@ -7,7 +7,7 @@
 
 ## 📂 Dataset
 
-- **Training data:**  
+- **Training data & Testing data:**  
   [CAVE Dataset](https://pan.baidu.com/share/init?surl=CXCJfzp2yfvJZ9Lg2i-mNA)  
   _Extraction code: `dju8`_
 
