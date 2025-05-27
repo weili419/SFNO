@@ -4,6 +4,13 @@
 > Full training‐code details will be released immediately upon acceptance.
 
 ---
+## 🍗 Model
+- You can find detailed model architecture information here:
+
+```bash
+cd CAVE/Model
+```
+---
 
 ## 📂 Dataset
 
@@ -20,3 +27,4 @@ Clone or navigate into the `CAVE` directory and run the demo:
 ```bash
 cd CAVE
 python Test.py
+```
