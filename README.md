@@ -6,6 +6,7 @@
 ---
 ## 🍗 Model
 - You can find detailed model architecture information here:
+![](./Figure/framework.png)
 
 ```bash
 cd CAVE/Model
