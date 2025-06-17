@@ -1,4 +1,4 @@
-# Spatial–Spectral Fusion Neural Operator Demo
+# Arbitrary‑Scale Spatial–Spectral Fusion using Kernel Integral and Progressive Resampling
 
 > **Note:** This manuscript is currently under review.  
 > Full training‐code details will be released immediately upon acceptance.
