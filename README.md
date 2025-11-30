@@ -9,7 +9,7 @@
 ![](./Figure/framework.png)
 
 ```bash
-cd CAVE/Model
+cd Assets/Model
 ```
 ---
 
